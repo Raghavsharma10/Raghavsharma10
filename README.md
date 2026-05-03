@@ -1,17 +1,17 @@
 # 👋 Welcome to my GitHub profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Building+Systems+%3E+Writing+Code;DSA+%7C+Systems+%7C+Machine+Learning;High-Performance+Computing;From+Scratch+Philosophy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+Systems+%3E+Writing+Code;DSA+%7C+Systems+%7C+ML" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Engineering student passionate about **Data Structures, Systems, and Machine Learning**. I'm fascinated by **high-performance computing** and **scalable architectures**, and I believe in building from scratch rather than using black boxes.
+Engineering student passionate about **Data Structures, Systems, and Machine Learning**. I'm fascinated by **scalable architectures** and building efficient solutions from first principles.
 
 - 🔭 Deep diving into DSA, system design, and ML fundamentals
-- 💡 Focus on performance optimization and parallel computing (OpenMP, MPI)
+- 💡 Focus on performance optimization and system design
 - 📚 Building transformers and ML systems from the ground up
 - 🤝 Committed to writing clean, efficient code
 
@@ -27,19 +27,21 @@ Engineering student passionate about **Data Structures, Systems, and Machine Lea
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 
+**ML & Data Science**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+
 **Tools & Technologies**
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/OpenMP-FF6B6B?style=flat-square&logo=c&logoColor=white" alt="OpenMP" />
-<img src="https://img.shields.io/badge/MPI-0EA5E9?style=flat-square&logo=intel&logoColor=white" alt="MPI" />
 
 **Specializations**
 <br/>
-<img src="https://img.shields.io/badge/Data%20Structures-FF6B6B?style=flat-square" alt="Data Structures" />
+<img src="https://img.shields.io/badge/Data%20Structures-8B5CF6?style=flat-square" alt="Data Structures" />
 <img src="https://img.shields.io/badge/Algorithms-06B6D4?style=flat-square" alt="Algorithms" />
-<img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=flat-square" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Parallel%20Computing-8B5CF6?style=flat-square" alt="Parallel Computing" />
+<img src="https://img.shields.io/badge/Machine%20Learning-EC4899?style=flat-square" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Deep%20Learning-EC4899?style=flat-square" alt="Deep Learning" />
 
 </div>
 
@@ -70,15 +72,15 @@ Engineering student passionate about **Data Structures, Systems, and Machine Lea
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghavsharma10&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghavsharma10&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavsharma10&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavsharma10&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavsharma10&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavsharma10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -86,7 +88,7 @@ Engineering student passionate about **Data Structures, Systems, and Machine Lea
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghavsharma10&theme=nord&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghavsharma10&theme=radical&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -94,7 +96,7 @@ Engineering student passionate about **Data Structures, Systems, and Machine Lea
 ## 📊 Profile Views & Recognition
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raghavsharma10&color=0EA5E9&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Raghavsharma10&color=8B5CF6&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -110,10 +112,6 @@ Engineering student passionate about **Data Structures, Systems, and Machine Lea
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
 
 <div align="center">
   <sub>⭐ If you find my work interesting, feel free to star my repositories and follow for more updates!</sub>
