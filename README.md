@@ -49,17 +49,30 @@ Engineering student passionate about **Data Structures, Systems, and Machine Lea
 
 ## 📌 What I'm Building
 
+### 🧠 Transformer from Scratch -> Auto Code Completion System (for Python) Using In - House Transformer (Ongoing)
+- Built a decoder- only Transformer from scratch (NumPy) for Python Code Generation
+- Implemetned the core components manually :
+  Multi-head Self- attention
+  Positional Encoding
+  Tokenization
+  Training pipeline and batching
+  
+- The numerical features of the in house transformer architecture as of yet are :
+  
+  Vocab Size -> ~(100 - 1000) depending on the dataset size
+  embedding dimensions = 128
+  Number of layers of decoder stack = 4
+  Parameters ~ 1M
+  Batch sampling - 128 tokens per sample
+  Loss function -> Cross - Entropy Loss
+- Future Scope (Ongoing) : Convert this transformer architecture in a industry level Auto Code Completion completion model trained on Python Code, which suggests top k(prefarably 3) probable code blocks from the current code, out of which user can select anyone if found suitable.
+- Key Idea (Differentiator) - Inspired from standard Auto Code Completion models like Github Copilot, but rather than outputing a single most probable block, provides user with more control and flexibility owing to multiple possibilities it offers!
+
 ### ⚡ Sentiment Analysis System
 **Parallelized with OpenMP / MPI**  
 - High-performance text processing pipeline
 - Focus on scalability and optimization
 - Benchmarking distributed vs. shared memory approaches
-
-### 🧠 Transformer from Scratch
-**Implementing attention mechanisms manually**  
-- Building transformer blocks without libraries
-- Deep dive into NLP fundamentals
-- Performance benchmarking and optimization
 
 ### 📊 Data Structures & Algorithms
 **Strong foundation in:**
@@ -85,11 +98,6 @@ Engineering student passionate about **Data Structures, Systems, and Machine Lea
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghavsharma10&theme=radical&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ---
 
@@ -106,13 +114,13 @@ Engineering student passionate about **Data Structures, Systems, and Machine Lea
 <div align="center">
 
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />](https://github.com/Raghavsharma10)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com)
-[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />](mailto:your-email@example.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/raghavsharma13/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />](mailto:raghavsharma90901@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>⭐ If you find my work interesting, feel free to star my repositories and follow for more updates!</sub>
+  <sub>⭐ If you find my work interesting, feel free to connect!</sub>
 </div>
